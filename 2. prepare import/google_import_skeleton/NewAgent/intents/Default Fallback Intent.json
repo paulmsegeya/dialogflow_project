@@ -1,0 +1,34 @@
+{
+  "id": "1a4f1639-5705-4105-a550-5128f96e7461",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": [
+            "對唔住，我聽唔明你嘅問題。",
+            "我好似誤解咗你嘅說話。",
+            "我唔係聽得好清楚你講嘅最後幾隻字。",
+            "我搞唔清你嘅意思。",
+            "我聽唔明你嘅說話。"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

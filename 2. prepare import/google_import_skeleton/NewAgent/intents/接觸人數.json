@@ -1,0 +1,27 @@
+{
+  "id": "a5611de4-1ed2-4077-9661-db80c85a87ee",
+  "name": "接觸人數",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": "接觸人數目標會盡可能增加看到您廣告的人數，以及他們看到您廣告的頻率。選擇這個目標，您就能建立品牌知名度、轉變品牌印象，或是盡可能向廣告受眾中最多的用戶刊登廣告。採用這個目標時，您可以選擇在整個宣傳活動期間充分提高接觸人數或展示次數。您可以針對用戶看到廣告的次數，以及兩次看到廣告之間至少相隔的天數，來設定展示次數控制選項。舉例來說，假設您想讓廣告接觸大部分的目標廣告受眾，進而刺激銷售業績，此外，您也可以運用地點目標設定調整接觸範圍，接觸商家分店特定半徑範圍內的用戶。便可以使用接觸人數目標，向大部分的廣告受眾刊登廣告。如果想讓更多人知道您的品牌或新產品，您可以設定頻率控制選項，提高向用戶刊登廣告的頻率。"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

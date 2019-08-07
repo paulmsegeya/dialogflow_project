@@ -1,0 +1,27 @@
+{
+  "id": "38438e5b-2313-40d0-9a1f-7b3662266e8c",
+  "name": "品牌知名度",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": "如果廣告客戶想向較可能回想起廣告的用戶刊登廣告，便可使用品牌知名度目標。「品牌知名度」目標可為您提供「廣告回想提升估計值（人數）」衡量數據，該數據代表的是兩天內曾觀看您廣告的廣告受眾中，對廣告還留有印象的估計人數。若要獲得最精確的廣告回想衡量結果，必須進行品牌數據提升研究。不過，若您的宣傳活動因不符條件而無法進行完整的研究調查，那麼「廣告回想提升估計值（人數）」衡量數據也不失為一種可行的替代方法。"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

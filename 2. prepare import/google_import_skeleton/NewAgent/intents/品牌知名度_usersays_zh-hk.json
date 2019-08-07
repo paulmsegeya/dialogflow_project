@@ -1,0 +1,26 @@
+[
+  {
+    "id": "08c57e8f-03f6-44ef-a23b-d914d639abe7",
+    "data": [
+      {
+        "text": "品牌知名度點用",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "861f885e-10b7-468e-a9cb-9f5bce21ce51",
+    "data": [
+      {
+        "text": "咩係品牌知名度",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
